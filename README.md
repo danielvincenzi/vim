@@ -2,8 +2,8 @@
 
 Copy .vimrc to your ~/.vimrc.
 
-- ``` vim ```
-
 ## With Vundle
+
+- ``` vim ```
 
 - ``` :PluginInstall ```
