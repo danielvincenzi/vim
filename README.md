@@ -1,9 +1,11 @@
 # Vim
 
-Copy .vimrc to your ~/.vimrc.
+The best configurations :)
 
-## With Vundle
+## Install with Vundle
 
-- ``` vim ```
+- ``` git clone https://github.com/danvincenzi/vim.git ``` 
 
-- ``` :PluginInstall ```
+- ``` mv vim/.vimrc ~/ ```
+
+- Inside the Vim: ``` :PluginInstall ```
