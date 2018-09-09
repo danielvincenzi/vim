@@ -32,12 +32,12 @@ set expandtab
 
 noremap ,p <ESC>:NERDTreeToggle<RETURN>
 
-" mapping to navigate between buffers
+" Mapping to navigate between buffers
 noremap ,b <ESC>:CtrlPBuffer<RETURN>
 
 autocmd BufNewFile,BufRead *.slim set ft=slim
 
-" better key bindings for UltiSnipsExpandTrigger
+" Better key bindings for UltiSnipsExpandTrigger
 let g:UltiSnipsExpandTrigger = "<tab>"
 let g:UltiSnipsJumpForwardTrigger = "<tab>"
 let g:UltiSnipsJumpBackwardTrigger = "<s-tab>"
