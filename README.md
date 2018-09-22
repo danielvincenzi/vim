@@ -1,6 +1,6 @@
 # Vim
 
-The best configurations ;)
+The best configurations.
 
 ## Install with Vundle
 
