@@ -1,15 +1,9 @@
 # Vim
 
-The best configurations.
+## Install plugins
 
-## Install Vundle
-
-- ``` git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim ```
-
-## Install Plugins with Vundle
-
-- ``` git clone https://github.com/danvincenzi/vim.git ```
+- ``` git clone https://github.com/harkayal/vim.git && cd vim ```
 
 - ``` mv vim/.vimrc ~/ ```
 
-- Inside the Vim: ``` :PluginInstall ```
+- Inside the Vim: ``` :PlugInstall ```
