@@ -1,9 +1,9 @@
 # Vim
 
-## Install plugins
+## Install
 
 - ``` git clone https://github.com/harkayal/vim.git && cd vim ```
 
-- ``` mv vim/.vimrc ~/ ```
+- ``` mv .vimrc ~/ ```
 
 - Inside the Vim: ``` :PlugInstall ```
